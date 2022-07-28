@@ -1,13 +1,13 @@
 {
-    "name": "Caleb Ojukwu  | Winnipeg, Canada",
+    "name": "Caleb Ojukwu",
     "short_name": "Caleb",
     "icons": [{
-            "src": "/android-chrome-192x192.png",
+            "src": "/calebman.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "/calebman.png",
             "sizes": "512x512",
             "type": "image/png"
         }
