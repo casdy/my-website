@@ -1,0 +1,106 @@
+{
+    "basics": {
+        "name": "Caleb Ojukwu",
+        "label": "BSc Applied Computer Science",
+        "email": "ojukwucaleb@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "",
+        "x_title": "Caleb",
+        "job": "software developer",
+        "description": "Hey, A software developer fom Winnipeg, Manitoba Canada. I love all things technical. Talk soon!",
+        "summary": "based in Winnipeg, Canada.",
+        "keywords": "website,portfolio,template,kit,caleb,ojukwu,casdy,computer,science,software,developer,winnipeg,canada,react,github,linkedin,google,material,design,ui,webapp",
+        "url": "https://aboutme-casdy.vercel.app/",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Winnipeg",
+            "country": "Canada",
+            "countryCode": "CAD",
+            "province": "Manitoba"
+        },
+        "profiles": [{
+                "network": "user",
+                "username": "About me",
+                "url": "https://aboutme-casdy.vercel.app/",
+                "x_icon": "fas fa-user"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "calebojukwu",
+                "url": "https://www.linkedin.com/in/calebojukwu/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "casdy",
+                "url": "https://github.com/casdy",
+                "x_icon": "fab fa-github"
+            }
+        ]
+    },
+    "work": [{
+        "company": "Company",
+        "position": "Sales Rep",
+        "website": "https://www.7xpowered.com/",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Description...",
+        "highlights": [
+            "Started the company"
+        ]
+    }],
+    "volunteer": [{
+        "organization": "Organization",
+        "position": "Sound Engineer",
+        "website": "https://jesushouseint.org/",
+        "startDate": "2015-01-01",
+        "endDate": "2018-01-01",
+        "summary": "Description...",
+        "highlights": [
+            "Awarded 'Volunteer of the Month'"
+        ]
+    }],
+    "education": [{
+        "institution": "University of Winnipeg",
+        "area": "Applied computer science",
+        "studyType": "Bachelor",
+        "startDate": "2015-09-09",
+        "endDate": "2022-06-19"
+    }],
+    "awards": [{
+        "title": "Entrance Award",
+        "date": "2014-09-15",
+        "awarder": "University of Winnipeg",
+        "summary": "Was awarded the Entrance Award"
+    }],
+    "skills": [{
+        "name": "Web Development",
+        "level": "intermediate",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ]
+    }],
+    "languages": [{
+            "language": "Pidgin English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        }
+    ],
+    "interests": [{
+        "name": "cooking",
+        "keywords": [
+            "japanese",
+            "nigerian"
+        ]
+    }],
+    "references": [{
+        "name": "Jane Doe",
+        "reference": "Reference..."
+    }]
+}
