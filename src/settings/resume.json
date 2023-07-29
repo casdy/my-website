@@ -22,7 +22,7 @@
         "profiles": [{
                 "network": "user",
                 "username": "About me",
-                "url": "https://aboutme-casdy.vercel.app/",
+                "url": "https://portfolio-aboutme.vercel.app/",
                 "x_icon": "fas fa-user"
             },
             {
